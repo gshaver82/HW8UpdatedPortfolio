@@ -5,8 +5,7 @@ body {
 }
 
 main{
-  background-color: white;
-  /* margin: 30px; */
+  background-color: #00916E;
 }
 
 img.center-block {
@@ -15,3 +14,12 @@ img.center-block {
 section{
   
 }
+header{
+  background-color: #FF2E00;
+}
+a{
+  background-color: #FF2E00;
+  color: #F6F4F3;
+}
+
+
